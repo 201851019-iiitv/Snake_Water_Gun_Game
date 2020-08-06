@@ -2,12 +2,14 @@
 
 ## Snake_Water_Gun_Game
 
+<img src= "https://visitor-badge.laobi.icu/badge?page_id=201851019-iiitv/Snake_Water_Gun_Game" alt="visitor badge"/> |  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/201851019-iiitv/Snake_Water_Gun_Game/master)
 
 
+ ------
 This is best basic game using `cpp`
 
 
-Here Some rule   to win game .
+Here Some rule   to play the game .
 
 - Computer choose any random  character between s(for snake )  w(for water) and g for(gun).
 -  if user and  computer choose same character then match will draw and no point count.
